@@ -1,0 +1,24 @@
+{
+  "name": "resto.nathannau.com",
+  "version": "1.0.0",
+  "description": "Gestion de commandes de resto",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathannau/resto-main.git"
+  },
+  "keywords": [
+    "restaurant",
+    "order",
+    "manager"
+  ],
+  "author": "Nathan Nau",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "bugs": {
+    "url": "https://github.com/nathannau/resto-main/issues"
+  },
+  "homepage": "https://github.com/nathannau/resto-main#readme"
+}
